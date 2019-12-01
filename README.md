@@ -1,10 +1,10 @@
 # Homework 4 - Hard Coding
 
-Goals of this assignment were: write important algorithms and function from scratch. 
+Goals of this assignment were: writing important algorithms and functions from scratch. 
 
 __`Usage instructions (should you want to execute our code):`__
 
-	To run our code it isn't necessary to download the datasets, you only have to download the forder and run the programs made for the exercices.
+	To run our code it isn't necessary to download the datasets, you only have to download the folder and run the code written to complete each task.
  
 The repository includes the following files:
 1. __`main.ipynb`__: 
@@ -25,10 +25,7 @@ The repository includes the following files:
 6. __`Part 4.ipynb`__:
       > A Jupiter Notebook file which contains our solution to the first exercise that is about the K-Means and when it can go wrong.
       
-7. __`index_utils.py`__:
+7. __`theoretical_lib.py`__:
       > A Python file containing the functions used into the Part 4.ipynb file.
-      
-8. __`theoretical_lib.py`__:
-      > A Python file gathering functions we needed in more than one of the previous files.
 
 __`Team members: Giorgio Maria Mandolini - Luca Urban - Mahdi Charif `__
