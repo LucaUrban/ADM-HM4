@@ -13,7 +13,7 @@ The repository includes the following files:
 2. __`ex1 HM4.ipynb`__:
       > A Jupiter Notebook file which contains our solution to the first exercise that is about the Bloom Filter. 
 
-3. __`HW4 Exercise 2 (3).ipynb`__:
+3. __`HW4 Exercise 2.ipynb`__:
       > A Jupiter Notebook file which contains our solution to the second exercise that is about the Counting Sort. 
       
 4. __`Clustering.ipynb`__:
