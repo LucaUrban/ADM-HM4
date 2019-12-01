@@ -4,7 +4,7 @@ Goals of this assignment were: write important algorithms and function from scra
 
 __`Usage instructions (should you want to execute our code):`__
 
-	To run our code isn't necessary to download the datasets, you have only to download the forder and run the programs made for the exercices.
+	To run our code it isn't necessary to download the datasets, you only have to download the forder and run the programs made for the exercices.
  
 The repository includes the following files:
 1. __`main.ipynb`__: 
@@ -31,4 +31,4 @@ The repository includes the following files:
 8. __`theoretical_lib.py`__:
       > A Python file gathering functions we needed in more than one of the previous files.
 
-__`Team members: Giorgio Maria Mandolini - Luca Urban - `__
+__`Team members: Giorgio Maria Mandolini - Luca Urban - Mahdi Charif `__
