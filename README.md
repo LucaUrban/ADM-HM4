@@ -1,5 +1,9 @@
 # Homework 4 - Hard Coding
 
+<p align="center">
+<img src="https://pbs.twimg.com/media/DOX7X5fX0AAgcv9?format=jpg&name=900x900">
+</p>
+
 Goals of this assignment were: writing important algorithms and functions from scratch. 
 
 __`Usage instructions (should you want to execute our code):`__
