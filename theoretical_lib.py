@@ -10,10 +10,13 @@ warnings.filterwarnings('ignore')
 from sklearn import preprocessing
 from sklearn.cluster import KMeans
 from sklearn.metrics import accuracy_score
+from matplotlib.axes._axes import _log as matplotlib_axes_logger
+
+matplotlib_axes_logger.setLevel('ERROR')
 
 def get_dataframe():
     dataframe = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/00246/3D_spatial_network.txt', sep = ',',
-                                names = ['Osm ID', 'Longitude', 'Latitude', 'Altitude'])
+                            names = ['Osm ID', 'Longitude', 'Latitude', 'Altitude'])
     return dataframe
 
 def scatterplot(dataframe):
